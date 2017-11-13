@@ -4,6 +4,9 @@ package cap8.questao8_8;
 //Date class declaration.
 
 public class Date {
+	
+	public int a;
+	
 	private int month; // 1-12
 	private int day; // 1-31 based on month
 	private int year; // any year
